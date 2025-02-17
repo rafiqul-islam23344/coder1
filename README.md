@@ -59,3 +59,7 @@ I am passionate about ensuring software quality through **Manual, Automation, AP
 - 📧 **Email:** rafiqul.islam01408@gmail.com
 
 💡 Always eager to learn and improve software quality! 🚀
+
+## 📊 My GitHub Stats
+![Rafiqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiqul-islam23344&show_icons=true&bg_color=FFFFFF&title_color=007acc&text_color=333333&icon_color=007acc)
+
