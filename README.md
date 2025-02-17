@@ -52,7 +52,7 @@ I am passionate about ensuring software quality through **Manual, Automation, AP
 - 🖥️ **Languages:** ![C](https://img.shields.io/badge/-C-blue) ![C++](https://img.shields.io/badge/-C++-blue) ![Java](https://img.shields.io/badge/-Java-orange) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![HTML](https://img.shields.io/badge/-HTML-red) ![CSS](https://img.shields.io/badge/-CSS-blue)
 - 🗄️ **Database Languages:** SQL
 - 📊 **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms
-
+  
 ## 📫 Connect with Me
 - 🌍 **GitHub:** [github.com/rafiqul-islam23344](https://github.com/rafiqul-islam23344)
 - 💼 **LinkedIn:** [linkedin.com/in/rafiqulislam233](https://www.linkedin.com/in/rafiqulislam233/)
@@ -60,6 +60,18 @@ I am passionate about ensuring software quality through **Manual, Automation, AP
 
 💡 Always eager to learn and improve software quality! 🚀
 
+## 🔥 My GitHub Streak  
+[![GitHub Streak](https://streak-stats.demolab.com?user=rafiqul-islam23344&theme=light-blue)  ](https://camo.githubusercontent.com/a673ba1e55ce9f93a803cab922f34a950a531c66825060881cbaa7ab206b2e45/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d7261666971756c2d69736c616d3233333434267468656d653d6c696768742d626c7565)
+ 
+---  
+
+## 📊 Total Commits  
+![GitHub Commit Count](https://komarev.com/ghpvc/?username=rafiqul-islam23344&label=Total+Commits&color=0e75b6&style=flat)  
+
 ## 📊 My GitHub Stats
-![Rafiqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiqul-islam23344&show_icons=true&bg_color=FFFFFF&title_color=007acc&text_color=333333&icon_color=007acc)
+![Rafiqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiqul-islam23344&show_icons=true&bg_color=ADD8E6&title_color=005f9e&text_color=002244&icon_color=005f9e)
+
+
+
+
 
