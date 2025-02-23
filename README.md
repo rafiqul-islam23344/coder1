@@ -1,3 +1,8 @@
+[Click here to see the newman report 1] (https://newmanreport01.netlify.app/)
+[Click here to see the newman report 2] (https://newmanreport02.netlify.app/)
+[Click here to see the performance test report 1] (https://performancetestreport01.netlify.app/)
+
+
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=👋+Hi,+I'm+Rafiqul+Islam" alt="Typing SVG" />
