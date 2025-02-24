@@ -5,7 +5,7 @@
 <h3><a href="https://newmanreport02.netlify.app/"> Click here to see the newman report </a></h3>
 
 # Project_performance_Testing report 
-<h3><a href="https://performancetestreport01.netlify.app/"> Click here to see the newman report </a></h3>
+<h3><a href="https://performancetestreport01.netlify.app/"> Click here to see the performance test report </a></h3>
 
 # Importent Note
 
