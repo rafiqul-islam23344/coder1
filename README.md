@@ -104,7 +104,55 @@ Some of the samples of the mind map.
 </p>
 
 
+# Test Case Works for BDSHOP
 
+### Test Cases
+
+Some of the samples of the Test Cases.
+
+<p align="center">
+  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/testcase%20bd%20shop.png" />
+</p>
+
+
+### Bug Report
+
+Some of the samples of the Bug Report.
+
+<p align="center">
+  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/bug%20repport%20bdshop.png" />
+</p>
+
+
+
+### Test report
+Some of the samples of the test report.
+<p align="center">
+  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/test%20report%20bd%20shop.png" />
+</p>
+
+### Test metrics
+Some of the samples of the test metrics.
+<p align="center">
+  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/test%20metrics%20bd%20shop.png" />
+</p>
+
+### Mind map
+Some of the samples of the mind map.
+<p align="center">
+  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/mindmap%20bd%20shop.png" />
+</p>
+
+
+# Test Case Works for WALMART
+
+### Test Cases
+
+Some of the samples of the Test Cases.
+
+<p align="center">
+  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/testcase%20for%20walmart.png" />
+</p>
 
 
 <h3 align="center">
